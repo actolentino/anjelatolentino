@@ -1,5 +1,9 @@
+<br>
+<br>
+<br>
 <center>
-Welcome to My Simple Calculator
+<p style="font-size:30px">
+Welcome to My Simple Calculator </p>
 
 <form action="#" method="GET">
      Input Num1: <input type="number" name="num1">
