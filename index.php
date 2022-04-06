@@ -1,5 +1,5 @@
 
-
+<center>
 <form action="site.php" method="GET">
      Num1: <input type="number" name="num1">
      Num2: <input type="number" name="num2">
