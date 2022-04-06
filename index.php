@@ -1,7 +1,7 @@
 <center>
 Welcome to My Simple Calculator
 
-<form action="site.php" method="GET">
+<form action="#" method="GET">
      Input Num1: <input type="number" name="num1">
      Input Num2: <input type="number" name="num2">
      <input type="submit">
